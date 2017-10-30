@@ -55,3 +55,4 @@ fromAscii => fromLatin1
 (1) [Compiling under Qt4 and Qt5](http://www.qtcentre.org/threads/53731-compiling-under-qt4-AND-qt5)
 (2) [How to check QtVersion to include different header](how to check QT_VERSION to include different header?)
 (3) [Transition from Qt4.x to Qt5.x](https://wiki.qt.io/Transition_from_Qt_4.x_to_Qt5)
+(4) [Automated porting form Qt4 to Qt5](http://www.kdab.com/automated-porting-from-qt-4-to-qt-5/)
